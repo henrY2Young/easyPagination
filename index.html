@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/easyPagination.css">
+    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+    <script src="js/easyPagination.js"></script>
+</head>
+<body>
+<style>
+    #easyPagination {
+
+    }
+
+</style>
+<div id="easyPagination">
+
+</div>
+</body>
+<script>
+
+    easyPagination.init({
+        model: 'link',
+        hrefPrev:'123',
+        showHeader: true,
+        clickType: function (n) {
+            console.log(n + '1123');
+        }
+
+    });
+</script>
+</html>
