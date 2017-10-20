@@ -30,4 +30,4 @@
   ```
   - 给出的index.html测试可用
   
-  [(https://doi-janky.infosiftr.net/job/update.sh/job/php/badge/icon)]
+   ![image](https://github.com/henrY2Young/easyPagination/blob/master/test.png)
