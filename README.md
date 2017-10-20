@@ -29,4 +29,5 @@
     });
   ```
   - 给出的index.html测试可用
-  (https://doi-janky.infosiftr.net/job/update.sh/job/php/badge/icon)]
+  
+  [(https://doi-janky.infosiftr.net/job/update.sh/job/php/badge/icon)]
